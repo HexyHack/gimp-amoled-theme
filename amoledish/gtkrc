@@ -1,10 +1,10 @@
 ############################################################################
 #
-# Dark GIMP Theme
+# AMOLED-ish GIMP Theme
 #
-# Version 0.2
+# Version 0.1
 #
-# Copyright 2015-2016, Benoit Touchette
+# Copyright 2024, OmoHex
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -23,16 +23,7 @@
 #
 # Special thanks to all the theme creators, specifically:
 #
-# horst3180 for his excellent Ceti-2 theme.
-# Nuclear Napalm, android272, Medhi Abhollahi for their GIMP themes.
-#
-# Y'all inspired me to create these themes for GIMP.
-#
-############################################################################
-#
-# arrows-(down, left, right, up)*.png from Ceti-2 theme, horst3180
-# frame-gap-*.png from Ceti-2 theme, horst3180
-# gap information from new CS6 II theme, Medhi Abhollahi
+#   Benoit Touchette
 #
 ############################################################################
 #
@@ -41,13 +32,6 @@
 # * For this theme to work under KDE users will need to disable either
 #   "Apply colors to non-QT applications" or "Apply KDE Colours to Non-KDE
 #   apps" depending on the version.
-#
-# Miscellaneous:
-#
-# * Fonts can be overridden by uncommenting the two font lines below
-#
-# * Uncomment the gtk-primary-button-warps-slider line to enable warping
-#   scroll bars.
 #
 ############################################################################
 
