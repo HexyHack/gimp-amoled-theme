@@ -1,5 +1,5 @@
 # AMOLED-ish theme for GIMP 2.10
- <img src="screenshot.png" width="750px">
+ <img src="screenshot.png" width="1000px">
 
 <div style="height: 10px"></div>
 <p align="center">A black, clean theme for GIMP 2.10 based on default dark theme.</p>
